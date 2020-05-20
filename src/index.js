@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import * as serviceWorker from './serviceWorker';
 
+//test vscode git
 //1.类组件和生命周期
 class ComponentClass extends React.Component{//组件名首字母一定要大写！！！
   constructor(props){
